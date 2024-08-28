@@ -1,1 +1,2 @@
 # Diwali-Sales-Analysis
+Developed a comprehensive Diwali sales analysis using Python, leveraging libraries such as Pandas, NumPy, and Matplotlib/Seaborn. Conducted data cleaning, preprocessing, and exploratory data analysis to identify key sales trends, customer behaviors, and product performance. Generated visualizations to present insights on peak sales periods, top-selling products, and customer demographics, providing actionable recommendations for optimizing future sales strategies.
